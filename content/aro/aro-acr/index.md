@@ -16,7 +16,7 @@ Network traffic between the Private ARO cluster and the registry's private endpo
 
 ## Prepare your ARO cluster
 
-1. [Deploy a Private ARO cluster](/experts/private-cluster)
+1. [Deploy a Private ARO cluster](/experts/aro/private-cluster)
 
 1. Set some environment variables
 
